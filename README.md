@@ -30,6 +30,10 @@ The Machine Learning slides contents are as follow:
 * How does ML work?
   * Gradient Descent 
 * Data Preparation
+  * Normalization
+  * Standarization
+  * One Hot Encoding
+  * Missing Values Handling
 * Machine Learning Models Evaluation
 * Machine Learning Algorithms:
   * Linear Regression
